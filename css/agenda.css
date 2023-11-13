@@ -1,0 +1,26 @@
+table, td, th
+{
+    border: outset 5px purple;
+    color: white;
+    margin: 1em;
+    font-family: Arial, sans-serif;
+    background-color: black; 
+    margin-left: 27%;
+}
+
+table
+{
+    text-align: center;
+    
+}
+h1
+{
+    color: black;
+}
+main
+{
+    text-align: center;
+    border: outset 5px purple;
+    background-color:rgba(255, 255, 255, 0.8); 
+    padding: 3em;
+}

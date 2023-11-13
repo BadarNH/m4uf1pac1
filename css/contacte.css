@@ -1,0 +1,33 @@
+main
+{
+    margin: 1em;
+}
+p,h1
+{
+    margin-bottom: 1em;
+}
+h1
+{
+    text-align: center;
+}
+aside
+{
+    border: outset 5px purple;
+    font-family: Arial, sans-serif; 
+    padding: 3em;  
+    float: left;
+    clear: both;
+}
+iframe
+{
+    
+    height: 50em;
+    width: 70em;
+}
+div
+{
+    border: outset 5px purple;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 30%;
+}
