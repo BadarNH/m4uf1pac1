@@ -6,7 +6,7 @@ video
     height: auto; 
     width: auto;      
     margin-bottom: 4em;
-    
+    z-index: 1;
     
 }
 h1
