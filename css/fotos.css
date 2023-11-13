@@ -6,12 +6,13 @@ main img
 
 h1
 {
-    text-align: center; padding: 1em;
+    text-align: center; 
+    padding: 1em;
 }
 
 #imgzero,#imgfgo
 {
-    float: left;
+    float: left;    
     margin-left: 16%;
 }
 #imgfgo
@@ -44,12 +45,12 @@ h3
 #imgapocrypha h3
 {
     margin-left: 59.2%;
-    margin-right: 16.3%;
+    margin-right: 11em;
 }
 #imgmeloi h3
 {
-    margin-left: 59.2%;
-    margin-right: 16.3%;
+    margin-left: 47.7em;
+    margin-right: 11em;
 }
 
 #imgcreador
