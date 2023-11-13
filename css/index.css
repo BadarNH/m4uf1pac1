@@ -1,0 +1,41 @@
+
+main img
+{
+    height: 100%;
+    width: 50%;
+    float: right;
+    border: outset 5px purple;
+    margin-bottom: 1em;    
+}
+
+
+main h2
+{
+    font-family: Lucida, monospace;
+    font-size: 3em;
+}
+
+.newsdata
+{    
+    margin-bottom: 0.1em;
+}
+
+main div
+{
+    padding: 1em;
+    margin-top: 1em;
+    padding-bottom: 2em;
+    background-color: rgba(0, 0, 0, 0.692);
+    color: white;
+    border: outset 5px purple;
+    margin-bottom: 2em;
+    
+}
+
+article
+{     
+    margin-right: 51%;
+    border: outset 5px purple;
+    font-family: Arial, sans-serif;
+    background-color:rgba(255, 255, 255, 0.8);          
+}

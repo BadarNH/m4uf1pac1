@@ -1,0 +1,26 @@
+
+
+section
+{
+    padding: 2em;
+    margin-top: 1em;
+    background-color: rgba(0, 0, 0, 0.692);
+    color: white;
+    border: outset 5px purple;
+    clear: both;    
+}
+
+
+
+
+h3 
+{
+    font-family: Arial, sans-serif;
+    margin-bottom: 1em;
+}
+
+main
+{
+    margin-right: 25%;
+    margin-left: 25%;
+}
