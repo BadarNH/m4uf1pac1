@@ -9,9 +9,9 @@
 body
 {    
     background-image: url(../img/fate_web_background.jpg);
-    background-size: cover;    
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;    
+    background-position: center;
 }
 
 nav 
@@ -93,8 +93,8 @@ header
 }
 header img
 {
-    position: relative;
-    top: 20%;
+    
+    margin-top: 3%;
 }
 
 article

@@ -9,64 +9,40 @@ h1
     text-align: center; 
     padding: 1em;
 }
-
-#imgzero,#imgfgo
-{
-    float: left;    
-    margin-left: 16%;
-}
-#imgfgo
-{
-    clear: right;
-}
 section
 {
     padding: 2em;
     text-align: center;
+    margin-left: 10em;
+    margin-right: 10em;
 }
 h3
 {
-    padding: 1em;
+    padding: 0.5em;
     text-align: center;
     margin-bottom: 2em;
     border: outset 5px purple;
     
 }
-#imgcreador h3
-{
-    margin-left: 43%;
-    margin-right: 43%;
-}
-#imgstaynight h3
-{
-    margin-left: 40%;
-    margin-right: 40%;
-}
-#imgapocrypha h3
-{
-    margin-left: 59.2%;
-    margin-right: 11em;
-}
-#imgmeloi h3
-{
-    margin-left: 47.7em;
-    margin-right: 11em;
-}
 
 #imgcreador
-{
-    
-    text-align: center;     
-
+{    
+    display: inline-block;    
 }
 
 #imgstaynight
+{    
+    text-align: center;
+    display: inline-block;    
+}
+
+div
 {
-    
     text-align: center;
 }
 
 #imgzero,#imgapocrypha,#imgmeloi,#imgfgo
 {
     text-align: center;
+    display: inline-block;
 }
