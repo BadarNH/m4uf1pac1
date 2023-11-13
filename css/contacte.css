@@ -14,9 +14,12 @@ aside
 {
     border: outset 5px purple;
     font-family: Arial, sans-serif; 
+    font-size: large;
     padding: 3em;  
     float: left;
     clear: both;
+    background-color: rgb(53, 53, 53);
+    color: white;
 }
 iframe
 {
